@@ -1,0 +1,10 @@
+DroidDraw is a GUI to help you build your Android GUI.
+
+Unfortunately it seems to be practially abandonware, not having had
+a release or significant activity since August 2009. The original
+code site is here:
+
+http://code.google.com/p/droiddraw/
+
+This is a git clone so that it can be worked on jointly by those
+who find it useful and just want to improve it.
